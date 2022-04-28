@@ -1,0 +1,22 @@
+{
+  "name": "react-gadget-template-typescript",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "The base gadget typescript template for Create React App.",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/PreetiKharb"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
